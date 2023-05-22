@@ -1,5 +1,6 @@
 #--------------------------------------------------------#
 # Ultima atualizacao: 22-05-2023 com 100 domains
+# @victorhugolg
 # https://github.com/VictorHugoLG/blockPihole-PDF
 # Em caso de endereço incorreto peço que reporte para correção
 #--------------------------------------------------------#
